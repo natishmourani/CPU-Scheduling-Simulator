@@ -39,7 +39,7 @@ process-scheduler/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/process-scheduler.git
+git clone https://github.com/natishmourani/process-scheduler.git
 cd process-scheduler
 
 # Install dependencies
